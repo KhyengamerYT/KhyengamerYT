@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @KhyengamerYT!
+- 👀 I’m interested in programming (Don't we all on this website?)
+- 🌱 I’m currently learning Python
